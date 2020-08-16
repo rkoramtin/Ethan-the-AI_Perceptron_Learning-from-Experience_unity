@@ -6,3 +6,6 @@ Here we use a perceptron as an artificial character's brain and he is trained to
 # Learning Process:
 ![alt text](http://uupload.ir/files/7gtg_ezgif.com-video-to-gif.gif)
 
+
+
+
