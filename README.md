@@ -1,4 +1,4 @@
-# Ethan-the-AI-Perceptron-Learning-from-Experience_unity
+# Ethan-the-AI-Perceptron-Learning-from-Experience-Unity
 In this project we train an artificial character named Ethan To dodge the red balls
 
 A perceptron is the the simplest form of a neural network. A perceptron takes inputs, processes them with it's own function and then makes the decision to what to do.
